@@ -4,7 +4,7 @@
  * Sat Feb 14 12:30:58 GMT 2026
  */
 
-package org.example;
+package org.example.evosuite;
 
 import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
 import org.junit.BeforeClass;
@@ -12,7 +12,6 @@ import org.junit.Before;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.evosuite.runtime.sandbox.Sandbox;
-import org.evosuite.runtime.sandbox.Sandbox.SandboxMode;
 
 @EvoSuiteClassExclude
 public class DateUtils_ESTest_scaffolding {
