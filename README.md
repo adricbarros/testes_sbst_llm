@@ -29,5 +29,5 @@ O projeto está organizado seguindo as normas do Maven:
 
 Os relatórios completos de mutação estão disponíveis na pasta `/reports`.
 Para visualizar os detalhes técnicos de cada mutante morto ou sobrevivente, acesse:
-* [Relatório EvoSuite](./reports/evosuite/org.example/DateUtils.java.html)
-* [Relatório LLM](./reports/llm/org.example/DateUtils.java.html)
+* [Relatório EvoSuite](./reports/evosuite/DateUtils.java.html)
+* [Relatório LLM](./reports/llm/DateUtils.java.html)
